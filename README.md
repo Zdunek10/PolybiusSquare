@@ -1,2 +1,1 @@
 # PolybiusSquare
-Polybius Square
